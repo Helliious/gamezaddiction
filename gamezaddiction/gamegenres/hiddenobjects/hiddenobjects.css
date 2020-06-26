@@ -1,0 +1,31 @@
+body{
+	background-image: url('background.jpg');
+	background-attachment: scroll;
+}
+
+.back{
+	position: fixed;
+	border: 5px solid #333333;
+	background-color: #000000;
+	margin: 0px 0px 0px 1390px;
+	padding: 0px 1px 0px 1px;
+}
+
+.back a{
+	text-decoration: none;
+	font: 20px Times New Roman;
+	color: #CC0000;
+}
+
+.back a:hover{
+	color: #FFFFFF;
+}
+
+.centraltext{
+	background-color: #FFFFFF;
+	position: absolute;
+	border-radius: 10px;
+	margin: 117px 0px 0px 350px;
+	height: 800px;
+	width: 800px;
+}

@@ -1,0 +1,283 @@
+body{
+	background-image: url('background.jpg');
+	background-attachment: scroll;
+}
+
+.back{
+	position: fixed;
+	border: 5px solid #333333;
+	background-color: #000000;
+	margin: 0px 0px 0px 1390px;
+	padding: 0px 1px 0px 1px;
+}
+
+.back a{
+	text-decoration: none;
+	font: 20px Times New Roman;
+	color: #CC0000;
+}
+
+.back a:hover{
+	color: #FFFFFF;
+}
+
+.centraltext{
+	background-color: #FFFFFF;
+	position: absolute;
+	border-radius: 10px;
+	margin: 117px 0px 0px 350px;
+	height: 2900px;
+	width: 800px;
+}
+
+.centraltext h1{
+	font: 50px Impact;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 0px 0px 0px 320px;
+}
+
+.poll{
+	position: absolute;
+	margin: 117px 0px 0px 120px;
+}
+
+.picture1 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 250px 0px 0px 400px;
+}
+
+.picture1 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 210px 0px 0px 396px;
+}
+
+.picture2 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 530px 0px 0px 400px;
+}
+
+.picture2 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 500px 0px 0px 400px;
+}
+
+.picture3 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 810px 0px 0px 400px;
+}
+
+.picture3 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 780px 0px 0px 400px;
+}
+
+.picture4 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 1090px 0px 0px 400px;
+}
+
+.picture4 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 1060px 0px 0px 400px;
+}
+
+.picture5 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 1370px 0px 0px 400px;
+}
+
+.picture5 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 1340px 0px 0px 400px;
+}
+
+.picture6 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 1650px 0px 0px 400px;
+}
+
+.picture6 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 1620px 0px 0px 400px;
+}
+
+.picture7 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 1930px 0px 0px 400px;
+}
+
+.picture7 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 1900px 0px 0px 400px;
+}
+
+.picture8 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 2210px 0px 0px 400px;
+}
+
+.picture8 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 2180px 0px 0px 400px;
+}
+
+.picture9 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 2490px 0px 0px 400px;
+}
+
+.picture9 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 2450px 0px 0px 400px;
+}
+
+.picture10 iframe{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	margin: 2770px 0px 0px 400px;
+}
+
+.picture10 p{
+	position: absolute;
+	font: 25px Verdana;
+	font-weight: bold;
+	color: #CC0000;
+	margin: 2740px 0px 0px 400px;
+}
+
+.textbox1{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 250px 0px 0px 750px;
+}
+
+.textbox2{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 530px 0px 0px 750px;
+}
+
+.textbox3{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 810px 0px 0px 750px;
+}
+
+.textbox4{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 1090px 0px 0px 750px;
+}
+
+.textbox5{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 1370px 0px 0px 750px;
+}
+
+.textbox6{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 1650px 0px 0px 750px;
+}
+
+.textbox7{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 1930px 0px 0px 750px;
+}
+
+.textbox8{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 2210px 0px 0px 750px;
+}
+
+.textbox9{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 2490px 0px 0px 750px;
+}
+
+.textbox10{
+	position: absolute;
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 350px;
+	border-radius: 10px;
+	margin: 2770px 0px 0px 750px;
+}

@@ -1,0 +1,139 @@
+div h1 a{
+	position: absolute;
+	margin: -20px 0px 0px 620px;
+	text-decoration: none;
+	font-size: 60px;
+	color: #CC0000;
+}
+
+#header{
+	background-color: #000000;
+	width: 1530px;
+	height: 60px;
+	padding: 10px 0px 0px 0px;
+	margin: -10px 0px 0px -20px;
+}
+
+#first{
+	position: absolute;
+	font: 40px Impact;
+	color: #CC0000;
+	margin: -2px 0px 0px 632px;
+}
+
+#second{
+	position: absolute;
+	font: 70px Impact;
+	color: #CC0000;
+	margin: -20px 0px 0px 722px;
+}
+
+#third{
+	position: absolute;
+	font: 40px Impact;
+	color: #CC0000;
+	margin: -2px 0px 0px 745px;
+}
+
+body{
+	background-image: url('background.jpg');
+	background-attachment: scroll;
+}
+
+.menu1{
+	position: absolute;
+	margin: 120px 0px 20px 0px;
+	border-radius: 5px;
+}
+
+.menu1 a{
+	background: #000000;
+	font: 20px Times New Roman;
+	color: #CC0000;
+	text-decoration: none;
+	padding: 4px 0px 10px 11px;
+	display: block;
+	width: 170px;
+	height: 20px;
+}
+
+.menu1 a:hover{
+	color: #FFFFFF;
+}
+
+.menu2{
+	position: absolute;
+    margin: 0px 0px 20px 280px;
+}
+
+.menu2 a{
+	background-color: #000000;
+	font: 18px Times New Roman;
+	color: #CC0000;
+	text-decoration: none;
+	padding: 2px 15px;
+	width: 100px;
+	height: 22px;
+	float: left;
+}
+
+.menu2 a:hover{
+	color: #FFFFFF;
+}
+
+.centraltext{
+	background-color: #FFFFFF;
+	position: absolute;
+	border-radius: 10px;
+	margin: 117px 0px 0px 260px;
+	height: 900px;
+	width: 950px;
+}
+
+.login{
+	position: absolute;
+	margin: 3px 0px 0px 1275px;
+	color: red;
+}
+
+.login a{
+	text-decoration: none;
+	margin: 0px 0px 0px 53px;
+	color: red;
+}
+
+.login a:hover{
+	color: #FFFFFF;
+}
+
+.in{
+	position:absolute;
+	margin: 0px 0px 0px 130px;
+	width: 100px;
+}
+
+#valid1{
+	position: absolute;
+	margin: 1030px 0px 0px 0px;
+}
+
+#valid2{
+	position: absolute;
+	margin: 1030px 0px 0px 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
